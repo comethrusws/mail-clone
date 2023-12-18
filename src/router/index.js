@@ -8,7 +8,7 @@ const routes = [
     component: EmailView,
     children: [
       {
-        path: '',
+        path: '/email',
         component: HomeView
       },
     ]
